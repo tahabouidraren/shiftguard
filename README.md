@@ -50,18 +50,25 @@ Après paiement, vous recevrez:
 ```
 
 ### 📊 Avantages Clés pour Votre Restaurant :
-     Fonctionnalité	                                Bénéfice
+
+   ###  Fonctionnalité	                             ###  Bénéfice
+
 Analyse automatique des shifts	        Gain de temps quotidien (1-2h/jour)
-Détection des violations	              Évitez les amendes et conflits sociaux
+
+Détection des violations	                  Évitez les amendes et conflits sociaux
+
 Rapports exportables	                  Documentation prête pour les audits
+
 Surveillance continue	                  Conformité permanente des horaires
 
 ### 🏆 Témoignages Clients:
 
 "Ce service a révolutionné notre gestion RH. Nous avons réduit nos erreurs de planning de 95%!"
+
 Gérant McDonald's Casablanca
 
 "Simple, efficace et conforme à la réglementation marocaine. Un must pour tout responsable!"
+
 Gérant McDonald's Marrakech
 
 ### 🔐 Sécurité et Confidentialité:

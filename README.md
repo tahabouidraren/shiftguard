@@ -75,4 +75,5 @@ Telegram: @tstahaV2
 
 Email: tahabouidraren@gmail.com
 
-<div align="center"> <a href="https://tahabouidraren.pythonanywhere.com"> <img src="https://img.shields.io/badge/ACHETER_MAINTENANT-100_MAD-orange?style=for-the-badge&logo=telegram"> </a> </div> ```
+<div align="center"> <a href="https://tahabouidraren.pythonanywhere.com"> <img src="https://img.shields.io/badge/ACHETER_MAINTENANT-100_MAD-orange?style=for-the-badge&logo=bitcoin"> </a> </div> 
+<div align="center"> <a href="https://t.me/McdoEmp_bot"> <img src="https://img.shields.io/badge/ACHETER_MAINTENANT-100_MAD-orange?style=for-the-badge&logo=telegram"> </a> </div>```

@@ -53,11 +53,11 @@ Après paiement, vous recevrez:
 
 "Ce service a révolutionné notre gestion RH. Nous avons réduit nos erreurs de planning de 95%!"
 
-### Gérant McDonald's Casablanca
+👨‍💼 Gérant McDonald's Casablanca
 
 "Simple, efficace et conforme à la réglementation marocaine. Un must pour tout responsable!"
 
-### Gérant McDonald's Marrakech
+👨‍💼 Gérant McDonald's Marrakech
 
 ### 🔐 Sécurité et Confidentialité:
 

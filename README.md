@@ -31,7 +31,7 @@ Visitez notre boutique en ligne pour obtenir votre clé d'authentification uniqu
 
 👉 [Acheter une clé d'accès "BITCOIN"](https://tahabouidraren.pythonanywhere.com)
 ou contacter moi sur:
-👉 [Acheter une clé d'accès "CIH"](https://t.me/tstahaV2)
+👉 [Acheter une clé d'accès "Virement Bancaire"](https://t.me/tstahaV2)
 
 **Tarif:** 100 MAD (accès à vie)
 

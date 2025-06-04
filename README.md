@@ -37,9 +37,8 @@ ou contacter moi sur:
 
 ### Étape 2: Activez votre compte
 Après paiement, vous recevrez:
-1. Un QR code unique à scanner dans Google Authenticator
-2. Votre identifiant personnel
-3. Instructions d'activation
+1. Un code unique pour Google Authenticator
+2. Instructions d'activation
 
 ### Étape 3: Utilisez le service
 ```plaintext
@@ -76,4 +75,4 @@ Telegram: @tstahaV2
 Email: tahabouidraren@gmail.com
 
 <div align="center"> <a href="https://tahabouidraren.pythonanywhere.com"> <img src="https://img.shields.io/badge/ACHETER_MAINTENANT-100_MAD-orange?style=for-the-badge&logo=bitcoin"> </a> </div> 
-<div align="center"> <a href="https://t.me/McdoEmp_bot"> <img src="https://img.shields.io/badge/ACHETER_MAINTENANT-100_MAD-orange?style=for-the-badge&logo=telegram"> </a> </div>```
+<div align="center"> <a href="https://t.me/McdoEmp_bot"> <img src="https://img.shields.io/badge/ACHETER_MAINTENANT-100_MAD-orange?style=for-the-badge&logo=bank"> </a> </div>```

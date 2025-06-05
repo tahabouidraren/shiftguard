@@ -42,6 +42,7 @@ Après paiement, vous recevrez:
 2. Instructions d'activation
 
 ### Étape 3: Utilisez le service
+[![BOT](https://img.shields.io/badge/Bot-Telegram-blue.svg)](https://t.me/McdoEmp_bot)
 ```plaintext
 1. Envoyez /start au bot dans Telegram
 2. Saisissez le code de votre app d'authentification
